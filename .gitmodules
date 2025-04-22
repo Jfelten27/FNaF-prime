@@ -1,0 +1,3 @@
+[submodule "primelibs.hpappdir"]
+	path = primelibs.hpappdir
+	url = https://github.com/Jfelten27/primelibs
